@@ -1,2 +1,2 @@
 #!/bin/bash
-$((10$DECIAML)) | tr ' ' '\n'
+echo $((10$DECIAML))
