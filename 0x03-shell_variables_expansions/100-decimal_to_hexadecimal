@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((10$DECIAML))
+printf '%x\n' $DECIMAL
